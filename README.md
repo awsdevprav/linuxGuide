@@ -1,4 +1,4 @@
-# Linux Guide Step By Step
+# Linux Guide Step By Step:
 
 This repository is created to serve as a revision notes.
 
